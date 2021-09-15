@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin1", "Plugin1\Plugin1.csproj", "{A89593C3-B450-480A-8A41-CAABA9AAC9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCustomWorkFlow", "MyCustomWorkFlow\MyCustomWorkFlow.csproj", "{7116D480-3537-469B-8F61-A554EF5845AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89593C3-B450-480A-8A41-CAABA9AAC9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89593C3-B450-480A-8A41-CAABA9AAC9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89593C3-B450-480A-8A41-CAABA9AAC9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89593C3-B450-480A-8A41-CAABA9AAC9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7116D480-3537-469B-8F61-A554EF5845AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7116D480-3537-469B-8F61-A554EF5845AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7116D480-3537-469B-8F61-A554EF5845AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7116D480-3537-469B-8F61-A554EF5845AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0684BC86-23AC-4CDB-AE82-9291D1B7146A}
+	EndGlobalSection
+EndGlobal
